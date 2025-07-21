@@ -1,6 +1,6 @@
 # 🌍 HiLink – Travel Agency Landing Page
-!(https://github.com/Mohit8-8/HiLink-The_Hiking_partner/blob/main/public/ss1%20(1).png?raw=true)
-!(https://github.com/Mohit8-8/HiLink-The_Hiking_partner/blob/main/public/ss1%20(3).png?raw=true)
+![Project Preview](https://github.com/Mohit8-8/HiLink-The_Hiking_partner/blob/main/public/ss1%20(1).png?raw=true)
+![Project Preview](https://github.com/Mohit8-8/HiLink-The_Hiking_partner/blob/main/public/ss1%20(3).png?raw=true)
 
 HiLink is a modern and responsive landing page for a fictional travel agency. It’s built using **Next.js 14** with the App Router, **Tailwind CSS** for styling, and **Framer Motion** for animations. The goal of the project was to design a clean, fast, and visually engaging frontend layout that introduces travel-related services in a simple and effective way.
 
